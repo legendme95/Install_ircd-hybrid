@@ -1,8 +1,9 @@
-### Raspberry-linux manager
-- raspberry
-- linux
-- kernel 
-- security
-- and other
+### Raspberry-linux 
+- Raspberry
+- Linux
+- Kernel 
+- Security
+- System operation
+- And other
 
 
