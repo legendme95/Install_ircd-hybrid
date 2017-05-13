@@ -1,3 +1,8 @@
-I have a new changes
+### Raspberry-linux manager
+- raspberry
+- linux
+- kernel 
+- security
+- and other
 
 
