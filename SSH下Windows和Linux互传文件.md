@@ -1,11 +1,11 @@
-##SSH下Windows和Linux互传文件
+## SSH下Windows和Linux互传文件
 
 * 1.Install 安装lrzsz
 >  pi@raspberrypi:~ $ sudo apt-get install lrzsz
 >  
 >Attention：我使用的命令是apt-get install ，如果你的是其他请注意查找安装方法，单独的rz或sz是不行的
 
-###1、从win向linux上传文件执行命令如下
+### 1、从win向linux上传文件执行命令如下
 
 >  pi@raspberrypi:~ $ rz
 
